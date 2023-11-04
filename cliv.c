@@ -1,5 +1,5 @@
-/* Roy Yi
- * 12/30/20
+/* Roy Yi Meiqing Wang
+ * 11/4/23
  * Reduce pgm format (black and white image) to unicode blocks
  */
 
